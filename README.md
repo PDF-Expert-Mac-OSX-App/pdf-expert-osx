@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/pdfexpert">  
+<a href="https://top-ssilka-apps.github.io/.github/pdfexpert">  
 <img src="https://img.shields.io/badge/💻_GET_PDF_Expert-red?style=for-the-badge&logo=apple" alt="GET PDF Expert">  
 </a>  
 </div>
